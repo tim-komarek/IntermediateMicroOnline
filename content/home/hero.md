@@ -5,7 +5,7 @@ headless: true
 active: true
 weight: 10
 
-title: "Microeconomics for Public Policy"
+title: "Intermediate Microeconomic Theory"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media: econ_hires.png
@@ -20,7 +20,7 @@ design:
     text_color_light: true
 
 cta_note:
-  label: PMAP 8141 • Fall 2020<br>Andrew Young School of Policy Studies<br>Georgia State University
+  label: Economics 304 • Spring 2022<br>Strome College of Business<br>Old Dominion University
 ---
 
-**Learn how to understand, speak, and do economics in the public sector**
+**Learn how to understand, speak, and do economics**

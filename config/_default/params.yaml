@@ -37,7 +37,7 @@ font_size: "L"
 site_type: "Course"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: "Learn how to understand, speak, and do economics in the public sector"
+description: "Learn how to understand, speak, and do economics"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -89,37 +89,37 @@ edit_page:
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: Andrew Heiss
+author: Tim Komarek
 
 instructor: 
-  name: Dr. Andrew Heiss
-  email: aheiss@gsu.edu
-  url: "https://www.andrewheiss.com"
+  name: Dr. Tim Komarek
+  email: tkomarek@odu.edu
+  url: "https://www.timkomarek.com"
   twitter: andrewheiss
-  github: andrewheiss
-  office: "357 Andrew Young School"
+  github: tim-komarek
+  office: "2047 Constant Hall"
   contact_policy: >-
     E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
   appointment_url: https://calendly.com/andrewheiss/
 
 course:
-  number: "PMAP 8141"
-  semester: "Fall 2020"
+  number: "Econ 304"
+  semester: "Spring 2022"
   days: "Any day"
   time: "Any time"
   # location: "Online only (thanks, COVID-19, for ruining everything)"
-  dates: "August 24–December 15, 2020"
+  dates: "August 24–December 15, 2022"
   github: "andrewheiss/econf20.classes.andrewheiss.com"
-  copyrightYear: "2020"
+  copyrightYear: "2022"
   slack: "https://gsueconf2020.slack.com"
 
 university: 
-  name: Georgia State University
-  url: "https://www.gsu.edu"
+  name: Old Dominion University
+  url: "https://www.odu.edu"
 
 school:
-  name: Andrew Young School of Policy Studies
-  url: "https://aysps.gsu.edu/"
+  name: Strome College of Business
+  url: "https://www.odu.edu/business"
 
 
 ############################
