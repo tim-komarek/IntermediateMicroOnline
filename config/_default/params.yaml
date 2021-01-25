@@ -73,14 +73,14 @@ privacy_pack: false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page:
-  repo_url: 'https://github.com/andrewheiss/econf20.classes.andrewheiss.com'
-  content_dir: ''
-  repo_branch: master
-  editable:
-    docs: true
-    page: false
-    post: false
+#edit_page:
+#  repo_url: 'https://github.com/andrewheiss/econf20.classes.andrewheiss.com'
+#  content_dir: ''
+#  repo_branch: master
+#  editable:
+#    docs: true
+#    page: false
+#    post: false
 
 ############################
 ## Contact details
@@ -95,11 +95,12 @@ instructor:
   name: Dr. Tim Komarek
   email: tkomarek@odu.edu
   url: "https://www.timkomarek.com"
-  twitter: andrewheiss
-  github: tim-komarek
+  #twitter: andrewheiss
+ # github: tim-komarek
   office: "2047 Constant Hall"
+  phone: "(757) 447-7209"
   contact_policy: >-
-    E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
+    E-mail or phone is the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
   appointment_url: https://calendly.com/andrewheiss/
 
 course:
@@ -108,10 +109,10 @@ course:
   days: "Any day"
   time: "Any time"
   # location: "Online only (thanks, COVID-19, for ruining everything)"
-  dates: "August 24–December 15, 2022"
-  github: "andrewheiss/econf20.classes.andrewheiss.com"
+  dates: "January 10–May 4, 2022"
+#  github: "andrewheiss/econf20.classes.andrewheiss.com"
   copyrightYear: "2022"
-  slack: "https://gsueconf2020.slack.com"
+#  slack: "https://gsueconf2020.slack.com"
 
 university: 
   name: Old Dominion University
@@ -127,10 +128,10 @@ school:
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image: "social-image-f20.png"
+#sharing_image: "social-image-f20.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "andrewheiss"
+#twitter: "andrewheiss"
 
 
 ############################
